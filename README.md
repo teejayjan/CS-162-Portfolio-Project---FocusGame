@@ -1,9 +1,5 @@
 # CS 162 Portfolio Project - FocusGame
-Focus/Domination board game
+CS 162 Introduction to Computer Science II 
 
 ## Description
-Portfolio project for OSU CS 162. Objective of the game is to capture six of the opposing player's pieces.
-
-## Author
-Timothy Jan
-tj.jan@outlook.com
+Implements two-player Focus/Domination board game. Objective of the game is to capture six of the opposing player's pieces.
